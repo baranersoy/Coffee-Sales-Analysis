@@ -182,13 +182,18 @@ The insights obtained from the dashboard are as follows:
 <br>
 <br>
 
+![](images/thank_you.jpg)
+<br>
+<br>
+
+This documentation has been prepared to help you understand the project effectively. If you have any questions or feedback, please don't hesitate to let me know.
+Thank you for your time and consideration!
+<br>
+
 Reference: https://www.youtube.com/watch?v=m13o5aqeCbM&list=WL&index=7
 
 Data Source: https://github.com/mochen862/excel-project-coffee-sales
-
-
-
-
-
+<br>
+<br>
 
 
