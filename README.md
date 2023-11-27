@@ -186,13 +186,19 @@ The insights obtained from the dashboard are as follows:
 <br>
 <br>
 
-This documentation has been prepared to help you understand the project effectively. If you have any questions or feedback, please don't hesitate to let me know.
+This documentation has been prepared to help you understand the project effectively. If you have any questions or feedback, please don't hesitate to let me know.You can reach me through my linkedin profile.
+
 Thank you for your time and consideration!
 <br>
 
 Reference: https://www.youtube.com/watch?v=m13o5aqeCbM&list=WL&index=7
 
 Data Source: https://github.com/mochen862/excel-project-coffee-sales
+
+My Website: https://ersoydatainsights.wixsite.com/my-site
+
+My Linkedin Page: https://www.linkedin.com/in/baran-ersoy/
+
 <br>
 <br>
 
